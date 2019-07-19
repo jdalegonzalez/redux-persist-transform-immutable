@@ -10,8 +10,8 @@
     "remotedev-serialize": "^0.1.0"
   },
   "peerDependencies": {
-    "redux-persist": "^4.0.0",
-    "immutable": ">= 3"
+    "redux-persist": ">= 4 <= 5",
+    "immutable": ">= 3 <= 5"
   },
   "repository": {
     "type": "git",
